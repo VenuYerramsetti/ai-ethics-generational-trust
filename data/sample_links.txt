@@ -1,3 +1,11 @@
-AI Voice Example - https://...
-Deepfake Video - https://...
-AI Generated Image - https://...
+AI Voice Cloning:
+https://www.youtube.com/watch?v=I3l4XLZ59iw
+
+Deepfake Video:
+https://www.youtube.com/watch?v=AmUC4m6w1wo
+
+AI Image Generation:
+https://openai.com/dall-e-3/
+
+AI Text Generation:
+https://openai.com/chatgpt
