@@ -31,3 +31,6 @@ This project explores how different generations perceive AI-generated content an
 - Detection tools for synthetic media
 - User studies across age groups
 - AI literacy frameworks
+
+## Contribution
+This work presents an early-stage research perspective on generational trust in AI-generated content.
